@@ -60,13 +60,14 @@
       Recompleting the Caenorhabditis briggsae Genome Assembly with Nanopore Long-Read Sequencing
     </strong>
     <br />
-    <span style="color:blue">
+ <span style="color:blue">
       <strong>
         Final Year Project：Zhao Cunmin
       </strong>
     </span>
- 
-   使用Oxford Nanopore测序技术重新对Caenorhabditis briggsae进行测序和基因组组装
+    <br />
+    使用Oxford Nanopore测序技术重新对Caenorhabditis briggsae进行测序和基因组组装
+    <br />
    
    [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819436/FYP_thesis_19251211.pdf)]
   </font>
