@@ -74,25 +74,22 @@
  <p>
 
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 <p>
   <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left"> 
   <font size="5">
     <strong>
-      A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
+      Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
     </strong>
     <br />
     <span style="color:blue">
       <strong>
-        Course Final Project Grade：A
+        Science of The Total Environment
       </strong>
     </span>
     <br />
-    <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+   Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, Lin Zhu, Guangshan Xie, Pengfei Wu, Wei Wang, Zhongying Zhao, Zongwei Cai 
     <br />
     介绍自己干了啥
    
