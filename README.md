@@ -29,19 +29,17 @@
 
 ## 科研经历
 <p>
- <img width="200" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left">
- A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
+  <img width="200" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left"> 
+  Your text here for the first image.
+</p>
 
-
-
+<br />
+<br />
 
 <p>
-
-<p>
- 
-<img width="200" alt="fyp" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left">
-
-
+ <img width="200" alt="fyp" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left"> 
+ Your text here for the second image.
+</p>
 
 
 
