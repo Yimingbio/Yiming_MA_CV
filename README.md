@@ -13,7 +13,7 @@
 ## 工作及教育经历
 
 * 工作经历&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.3~2023.9&emsp;&emsp;&emsp;student-helper in hkbu/prof.zhao zhongying lab       
-* HKBU Biology Department&emsp;&emsp;&emsp; 2019.9~2023.7&emsp;&emsp;&emsp;major biotechnology undergraduate         
+* HKBU Biology Department&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;major biotechnology undergraduate         
 * HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;minor computer science undergraduate
 
 ## 专业技能
