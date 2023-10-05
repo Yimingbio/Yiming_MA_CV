@@ -17,12 +17,17 @@
 * 香港浸会大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp; minor computer science undergraduate
 
 ## 专业技能
-
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
+* dry lab skills
+* 熟练使用 python，linux command line, 掌握Java，了解 C++等编程语言
+* 掌握使用Ai算法进行医学图像分割技术
+* 掌握基因组组装，RNA-seq，生物信息学算法开发
+* 等等
+* wet lab skills
+* 熟练使用PCR，molecular cloning
+* 了解使用confocal microscope拍摄C.elegans embryo的操作流程
 * 等等
 
-## 项目经历
+## 科研经历
 
 1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
     * 具体功能 
