@@ -99,34 +99,28 @@
 
 
 <br />
-<br />
-<br />
+
 
 
 <p>
   <img width="200" alt="学区房" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/cb1bbb15-60cd-474b-93bf-d763cc3d01aa" align="left"> 
   <font size="5">
     <strong>
-      A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
+      探究”多校劃片”政策對於學區房房價的影響 ----以北京市中關村東南小區為例
     </strong>
     <br />
     <span style="color:blue">
-      <strong>
-        Course Final Project Grade：A
-      </strong>
     </span>
    <br />
-    <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+    <strong>趙存民</strong>, 林帛雨, 余穎欣
     <br />
-    介绍自己干了啥
+    使用爬虫算法与多元回归模型探究多校划片政策对房价的影响
    
-   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
+   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819625/default.pdf)]
   </font>
  <p>
 <br />
-<br />
-<br />
-<br />
+
 
 
 
