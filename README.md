@@ -39,7 +39,7 @@
 
 <p>
  
-![fyp](https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a)
+<img width="200" alt="fyp" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left">
 
 
 
