@@ -57,20 +57,20 @@
   <img width="200" alt="fyp" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left"
   <font size="5">
     <strong>
-      A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
+      Recompleting the Caenorhabditis briggsae Genome Assembly with Nanopore Long-Read Sequencing
     </strong>
     <br />
     <span style="color:blue">
       <strong>
-        Course Final Project Grade：A
+        Final Year Project
       </strong>
     </span>
     <br />
-    <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+    <strong>Zhao Cunmin</strong>
     <br />
-    介绍自己干了啥
+    使用Oxford Nanopore测序技术重新对Caenorhabditis briggsae进行测序和基因组组装
    
-   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
+   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819436/FYP_thesis_19251211.pdf)]
   </font>
  <p>
 
