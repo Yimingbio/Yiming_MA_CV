@@ -42,9 +42,8 @@
     </span>
     <br />
     <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+   [[paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819085/group_2_comp3065_final_project.copy.pdf)]
   </font>
-
-[[paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819085/group_2_comp3065_final_project.copy.pdf)]
 </p>
 
 <br />
