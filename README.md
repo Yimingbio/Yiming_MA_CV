@@ -52,6 +52,31 @@
 <br />
 <br />
 
+<p>
+ <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left"> 
+ Your text here for the second image.
+</p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<p>
+ <img width="200" alt="学区房" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/cb1bbb15-60cd-474b-93bf-d763cc3d01aa" align="left"> 
+ Your text here for the second image.
+</p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 
 
 
