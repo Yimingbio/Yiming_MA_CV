@@ -89,9 +89,8 @@
       </strong>
     </span>
     <br />
-   Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, Lin Zhu, Guangshan Xie, Pengfei Wu, Wei Wang, Zhongying Zhao, Zongwei Cai 
+   Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
     <br />
-    介绍自己干了啥
    
    [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
   </font>
