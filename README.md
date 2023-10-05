@@ -28,9 +28,10 @@
 * 等等
 
 ## 科研经历
-
-<img width="511" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9">
-
+<p>
+ <img width="250" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left">
+ A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
+<p>
 
 1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
     * 具体功能 
