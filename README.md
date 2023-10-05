@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
 * 手 机：13838929328 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：19251211@life.hkbu.edu.hk    
-* 专 业：major biotechnology && minor computer science &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Research Asistant
+* 专 业：major biotechnology && minor computer science &emsp;&emsp;&emsp;&emsp;岗 位：Research Asistant
 * CGPA: 3.01/年级前100%
 * CS minor GPA: 3.47
 
