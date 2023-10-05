@@ -48,6 +48,25 @@
 <br />
 
 <p>
+  <img width="200" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left"> 
+  <font size="5">
+    <strong>
+      A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
+    </strong>
+    <br />
+    <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+  </font>
+</p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<p>
  <img width="200" alt="fyp" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left"> 
  Your text here for the second image.
 </p>
