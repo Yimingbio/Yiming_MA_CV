@@ -29,7 +29,7 @@
 
 ## 科研经历
 
-<img width="250" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9">
+<img width="500" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9">
 
 
 1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
