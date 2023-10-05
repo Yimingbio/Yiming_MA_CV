@@ -41,7 +41,8 @@
       </strong>
     </span>
     <br />
-    <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu 
+    <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+    介绍自己干了啥
    
 [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
   </font>
