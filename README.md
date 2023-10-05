@@ -12,13 +12,13 @@
 
 ## 工作及教育经历
 
-* 工作经历&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.3~至今&emsp;&emsp;&emsp;&emsp; student-helper worked in hkbu/prof.zhao zhongying lab       
+* 工作经历&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.3~至今&emsp;&emsp;&emsp;&emsp; student-helper in hkbu/prof.zhao zhongying lab       
 * 香港浸会大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp; major biotechnology undergraduate         
 * 香港浸会大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp; minor computer science undergraduate
 
 ## 专业技能
 * dry lab skills
-* 熟练使用 python，linux command line, 掌握Java，了解 C++等编程语言
+* 熟练使用 python，linux command line，掌握Java，了解 C++等编程语言
 * 掌握使用Ai算法进行医学图像分割技术
 * 掌握基因组组装，RNA-seq，生物信息学算法开发
 * 等等
