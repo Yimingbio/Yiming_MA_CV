@@ -20,6 +20,7 @@
 
 ## 当前工作方向
 * 使用深度学习分割算法处理confocal microscope拍摄得到的C.elegans embryo图像
+* 开发用于辅助设计CRISPR guide RNA的生物信息学软件
 
 ## 专业技能
 * dry lab skills
