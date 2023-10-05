@@ -17,6 +17,9 @@
 * HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;minor computer science
 * 清华大学人文学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023.5~2023.6&emsp;&emsp;&emsp;暑期通识课程
 
+## 工作方向
+* 使用深度学习分割算法处理confocal microscope拍摄得到的C.elegans embryo图像
+
 ## 专业技能
 * dry lab skills
 * 熟练使用 python，linux command line，掌握Java，了解 C++等编程语言
