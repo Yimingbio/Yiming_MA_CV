@@ -7,13 +7,15 @@
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
 * 手 机：13838929328 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：19251211@life.hkbu.edu.hk    
 * 专 业：biotechnology && minor computer science &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Research Asistant
+* CGPA:&emsp;3.01/年级前100%
+* CS minor GPA:&emsp;3.47/年级前100%
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
+* 工作经历&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.3~至今&emsp;&emsp;&emsp;&emsp;&emsp; student-helper worked in hkbu/prof.zhao zhongying lab       
 * 香港浸会大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp; major biotechnology undergraduate         
 * 香港浸会大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp; minor computer science undergraduate
-
+* CGPA&emsp;&emsp;&emsp;&emsp;&emsp;3.01&emsp;&emsp;&emsp;&emsp;年级前100%
 ## 专业技能
 
 * 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
