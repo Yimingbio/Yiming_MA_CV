@@ -45,7 +45,7 @@
     <br />
     介绍自己干了啥
    
-&emsp;&emsp;&emsp;[[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
+   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
   </font>
 
 </p>
