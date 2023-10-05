@@ -30,26 +30,12 @@
 ## 科研经历
 <p>
   <img width="200" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left"> 
-  A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
- *Zhao Cunmin, Lau Kin Tung, LIU Yulin, Yang Shu
-</p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<p>
-  <img width="200" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left"> 
   <font size="5">
     <strong>
       A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
     </strong>
     <br />
-    *Zhao Cunmin, Lau Kin Tung, LIU Yulin, Yang Shu
+    </strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
   </font>
 </p>
 
