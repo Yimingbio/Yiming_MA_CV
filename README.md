@@ -65,7 +65,6 @@
         Final Year Project：Zhao Cunmin
       </strong>
     </span>
-    <br />
  
    使用Oxford Nanopore测序技术重新对Caenorhabditis briggsae进行测序和基因组组装
    
