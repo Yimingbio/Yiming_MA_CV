@@ -106,7 +106,7 @@
     </strong>
     <span style="color:blue">
       <strong>
-        清华大学暑期通识课程项目
+        清华大学暑期通识课程研究项目
       </strong>
     </span>
     <br />
