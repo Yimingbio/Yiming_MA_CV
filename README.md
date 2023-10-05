@@ -69,8 +69,12 @@
     </span>
     <br />
     <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+    <br />
+    介绍自己干了啥
+   
+   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
   </font>
-</p>
+ <p>
 
 <br />
 <br />
@@ -92,8 +96,12 @@
     </span>
     <br />
     <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+    <br />
+    介绍自己干了啥
+   
+   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
   </font>
-</p>
+ <p>
 
 <br />
 <br />
@@ -112,11 +120,14 @@
         Course Final Project Grade：A
       </strong>
     </span>
-    <br />
+   <br />
     <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+    <br />
+    介绍自己干了啥
+   
+   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
   </font>
-</p>
-
+ <p>
 <br />
 <br />
 <br />
