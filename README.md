@@ -92,9 +92,11 @@
    Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
     <br />
    
-   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
+   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819546/SSRN-id4224118.pdf)]
   </font>
+  
  <p>
+
 
 <br />
 <br />
