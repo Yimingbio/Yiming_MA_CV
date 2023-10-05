@@ -113,10 +113,8 @@
         清华大学暑期通识课程项目
       </strong>
     </span>
-    <br />
     <span style="color:blue">
     </span>
-   <br />
     <strong>趙存民</strong>, 林帛雨, 余穎欣
     <br />
     使用爬虫算法与多元回归模型探究多校划片政策对房价的影响进行定量分析
