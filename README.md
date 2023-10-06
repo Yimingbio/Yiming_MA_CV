@@ -98,7 +98,7 @@
    Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
     <br />
    
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819546/SSRN-id4224118.pdf)]
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12826367/1-s2.0-S004896972207749X-main.pdf)]
   </font>
   
  <p>
