@@ -44,7 +44,7 @@
     <br />
     <span style="color:blue">
       <strong>
-        Course Final Project Grade：A
+        Course Final Project
       </strong>
     </span>
     <br />
