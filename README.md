@@ -108,11 +108,11 @@
   <img width="200" alt="学区房" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/cb1bbb15-60cd-474b-93bf-d763cc3d01aa" align="left"> 
   <font size="5">
     <strong>
-      探究”多校劃片”政策對於學區房房價的影響 ----以北京市中關村東南小區為例
+      探究”多校劃片”政策對於學區房房價的影響 ----以北京市中關村東南小區為例  
     </strong>
     <span style="color:blue">
       <strong>
-        清华大学暑期通识课程研究项目
+        清华大学暑期研究项目
       </strong>
     </span>
     <br />
