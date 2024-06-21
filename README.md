@@ -8,7 +8,7 @@
 * 手 机：13838929328 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：19251211@life.hkbu.edu.hk    
 * 专业：major biotechnology (focus on Genetics and Developmental Biology) && 
   <br>
-  &emsp;&emsp;&emsp;minor computer science (focus on Artificial Intelligence)
+  &emsp;&emsp;&emsp;minor computer science (focus on Deep Learning)
 * 岗 位：Research Asistant
 * CGPA: 3.01/年级前100%
 * CS minor GPA: 3.47
