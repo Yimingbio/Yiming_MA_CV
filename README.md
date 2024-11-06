@@ -112,7 +112,7 @@
     <br />
    <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
    
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17648455/commbio.pdf)]
+   [[Paper](https://github.com/user-attachments/files/17648455/commbio.pdf)]
   </font>
   
  <p>
