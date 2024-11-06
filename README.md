@@ -38,7 +38,7 @@
       Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
     </strong>
     <br />
-    CVPR 2025 Conference Submission
+    CVPR 2025 Conference Submission (In Progress)
     <br />
    <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan,..., Zhongying Zhao, Renjie Wan
    
