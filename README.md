@@ -27,7 +27,7 @@
 
 <td>HKBU/Prof. Zhao Zhongying Lab</td>
 
-<td>2021.3~2023.7</td>
+<td>2021.3~2023.5</td>
 
 <td>Student-helper</td>
 
@@ -37,7 +37,7 @@
 
 <td>HKBU Biology Department</td>
 
-<td>2019.9~2023.7</td>
+<td>2019.9~2023.5</td>
 
 <td>Major: Biotechnology Undergraduate</td>
 
@@ -47,7 +47,7 @@
 
 <td>HKBU CS Department</td>
 
-<td>2021.9~2023.7</td>
+<td>2021.9~2023.5</td>
 
 <td>Minor: Computer Science</td>
 
