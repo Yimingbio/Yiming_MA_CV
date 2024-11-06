@@ -207,9 +207,6 @@
     <br />
     使用Oxford Nanopore测序技术重新对Caenorhabditis briggsae进行测序和基因组组装
     <br />
-    <br />
-    <br />
-    <br />
    
    [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819436/FYP_thesis_19251211.pdf)]
   </font>
