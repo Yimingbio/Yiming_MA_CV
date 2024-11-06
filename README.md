@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：$Year-2001  
 * 手 机：13838929328 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：19251211@life.hkbu.edu.hk    
-* B.Sc. in biotechnology (focus on Genetics and Developmental Biology) &&<br />
+* B.Sc.  in biotechnology (focus on Genetics and Developmental Biology) &&<br />
   Minor in computer science (Deep Learning)
 * 岗 位：Research Asistant
 
