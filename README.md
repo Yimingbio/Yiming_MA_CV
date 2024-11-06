@@ -114,27 +114,24 @@
   </div>
 </p>
 
-<p>
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left"> 
-  <font size="5">
-    <strong>
-      EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
-    </strong>
-    <br />
-    <span style="color:blue">
-      <strong>
-        Under Review by <i>Communications Biology</i>
-      </strong>
-    </span>
-    <br />
-   <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
-   
-   [[Paper](https://github.com/user-attachments/files/17648455/commbio.pdf)]
-  </font>
-  
- <p>
 
 <p>
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left">
+  <div style="margin-left: 200px; text-align: right;">
+    <font size="5">
+      <strong>
+        Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
+      </strong>
+      <br />
+      <i>Bioinformatics</i>
+      <br />
+      Zelin Li, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao
+      <br />
+      [<a href="https://github.com/user-attachments/files/17648675/bioinformatics.pdf" style="text-decoration: underline;">Paper</a>]
+    </font>
+  </div>
+</p>
+
 
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left"> 
