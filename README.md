@@ -18,22 +18,16 @@
 * HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;minor computer science
 * 清华大学人文学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023.5~2023.7&emsp;&emsp;&emsp;暑期研究
 
-## 当前工作方向
+## Current Research Interests
 * Microscopy Fluorescence Image Processing 
 * Image Denoising, Segmentation, Super-Resolution and Enhancement
 * Neural Representation
 * Segment Anything in medical images
 
-## 专业技能
-* dry lab skills
-* 熟练使用 python，linux command line，掌握Java，了解 C++等编程语言
-* 掌握使用Ai算法进行医学图像分割技术
-* 掌握基因组组装，RNA-seq，生物信息学算法开发
-* 等等
-* wet lab skills
-* 熟练使用PCR，molecular cloning
-* 了解使用confocal microscope拍摄C.elegans embryo的操作流程
-* 等等
+## Advisor
+* Zhao Zhongying(Professor, Bio, Hong Kong Baptist University)
+* Guan Guoye(Postdoc, Harvard Medical School)
+* Wan Renjie(Assistant Professor, CS, Hong Kong Baptist University)
 
 ## Publications
 
