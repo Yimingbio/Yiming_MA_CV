@@ -70,7 +70,7 @@
       </strong>
     </span>
     <br />
-   Cunmin Zhao, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
+   <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
    
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17648455/commbio.pdf)]
   </font>
@@ -94,7 +94,7 @@
     <br />
    Zelin Li1, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao
    
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17648675/bioinformatics.pdf)]
+   [[Paper](https://github.com/user-attachments/files/17648675/bioinformatics.pdf)]
   </font>
   
  <p>
