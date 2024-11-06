@@ -16,7 +16,7 @@
 ## 工作及教育经历
 
 * HKBU/prof.zhao zhongying lab&emsp; 2023.9~now&emsp;&emsp;&emsp;&emsp;Research Asistant
-* 工作经历&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.3~2023.9&emsp;&emsp;&emsp;&emsp;student-helper in hkbu/prof.zhao zhongying lab     
+* 工作经历 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.3~2023.9&emsp;&emsp;&emsp;student-helper in hkbu/prof.zhao zhongying lab     
 * HKBU Biology Department&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;major biotechnology undergraduate         
 * HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;minor computer science
 * 清华大学人文学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023.5~2023.7&emsp;&emsp;&emsp;暑期研究
@@ -36,7 +36,80 @@
 * 了解使用confocal microscope拍摄C.elegans embryo的操作流程
 * 等等
 
-## 科研经历
+## 工作经历
+
+<p>
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left"> 
+  <font size="5">
+    <strong>
+      Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
+    </strong>
+    <br />
+    <span style="color:blue">
+      <strong>
+        CVPR 2025 Conference Submission
+      </strong>
+    </span>
+    <br />
+   <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming MA, Zhongying Zhao, Renjie Wan
+   
+   [[Paper](https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf)]
+  </font>
+  
+ <p>
+
+<p>
+
+<p>
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left"> 
+  <font size="5">
+    <strong>
+      Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
+    </strong>
+    <br />
+    <span style="color:blue">
+      <strong>
+        CVPR 2025 Conference Submission
+      </strong>
+    </span>
+    <br />
+   <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming MA, Zhongying Zhao, Renjie Wan
+   
+   [[Paper](https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf)]
+  </font>
+  
+ <p>
+
+<p>
+
+
+
+
+## 本科科研经历
+
+<p>
+  <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left"> 
+  <font size="5">
+    <strong>
+      Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
+    </strong>
+    <br />
+    <span style="color:blue">
+      <strong>
+        Published in <i>Science of The Total Environment</i>
+      </strong>
+    </span>
+    <br />
+   Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
+   
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12826367/1-s2.0-S004896972207749X-main.pdf)]
+  </font>
+  
+ <p>
+
+<p>
+
+
 <p>
   <img width="200" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left"> 
   <font size="5">
@@ -88,27 +161,9 @@
 
 
 
-<p>
-  <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left"> 
-  <font size="5">
-    <strong>
-      Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
-    </strong>
-    <br />
-    <span style="color:blue">
-      <strong>
-        Science of The Total Environment
-      </strong>
-    </span>
-    <br />
-   Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
-    <br />
-   
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12826367/1-s2.0-S004896972207749X-main.pdf)]
-  </font>
-  
- <p>
 
+
+<br />
 <p>
   <img width="200" alt="学区房" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/cb1bbb15-60cd-474b-93bf-d763cc3d01aa" align="left"> 
   <font size="5">
