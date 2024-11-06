@@ -95,15 +95,13 @@
   </div>
 </p>
 
-
+<strong>
+        EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
+      </strong>
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left">
   <div style="margin-left: 200px; text-align: right;">
     <font size="5">
-      <strong>
-        EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
-      </strong>
-      <br />
       Under Review by <i>Communications Biology</i>
       <br />
       <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
