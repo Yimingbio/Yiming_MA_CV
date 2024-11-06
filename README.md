@@ -92,7 +92,7 @@
       </strong>
     </span>
     <br />
-   Zelin Li1, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao
+   Zelin Li, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao
    
    [[Paper](https://github.com/user-attachments/files/17648675/bioinformatics.pdf)]
   </font>
