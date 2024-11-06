@@ -99,6 +99,26 @@
 
 
 <p>
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left">
+  <div style="margin-left: 200px; text-align: right;">
+    <font size="5">
+      <strong>
+        Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
+      </strong>
+      <br />
+      CVPR 2025 Conference Submission (In Progress)
+      <br />
+      <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming Ma, Zhongying Zhao, Renjie Wan
+      
+     
+      [Paper]()
+      
+    </font>
+
+  </div>
+</p>
+
+<p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left"> 
   <font size="5">
     <strong>
