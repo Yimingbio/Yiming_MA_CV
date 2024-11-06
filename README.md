@@ -147,10 +147,6 @@
 
 <br />
 
-
-
-
-
 ## Research Projects During Undergraduate Studies
 
 <strong>
@@ -170,51 +166,47 @@
 </p>
 
 <br />
-
-
+<br />
+<br />
 
 <strong>
-      Recompleting the Caenorhabditis briggsae Genome Assembly with Nanopore Long-Read Sequencing
-    </strong>
-<p>
-  <img width="200" alt="fyp" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left"
-  <font size="5">
- <span style="color:blue">
-      <strong>
-        Final Year Project Thesis
+        Recompleting the Caenorhabditis briggsae Genome Assembly with Nanopore Long-Read Sequencing
       </strong>
-    </span>
-    <br />
-    使用Oxford Nanopore测序技术重新对Caenorhabditis briggsae进行测序和基因组组装
-    <br />
-   
-   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819436/FYP_thesis_19251211.pdf)]
-  </font>
- <p>
+<p>
+  <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left">
+  <div style="margin-left: 200px; text-align: right;">
+    <font size="5">
+      Final Year Project Thesis
+      <br />
+      <strong>Zhao Cunmin</strong>, supervised by Prof. Zhao Zhongying
+      <br />
+      [<a href="https://github.com/cuminzhao/Markdown-Resume-Template/files/12819436/FYP_thesis_19251211.pdf" style="text-decoration: underline;">Paper</a>]
+    </font>
+  </div>
+</p>
+
+<br />
+
 
 <br />
 <br />
-<p>
-  <img width="200" alt="学区房" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/cb1bbb15-60cd-474b-93bf-d763cc3d01aa" align="left"> 
-  <font size="5">
-    <strong>
-      探究”多校劃片”政策對於學區房房價的影響 ----以北京市中關村東南小區為例  
-    </strong>
-    <span style="color:blue">
-      <strong>
-        清华大学暑期研究项目
+
+<strong>
+        探究”多校劃片”政策對於學區房房價的影響 ----以北京市中關村東南小區為例  
       </strong>
-    </span>
-    <br />
-    <span style="color:blue">
-    </span>
-    <strong>趙存民</strong>, 林帛雨, 余穎欣
-    <br />
-    使用爬虫算法与多元回归模型探究多校划片政策对房价的影响进行定量分析
-   
-   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819625/default.pdf)]
-  </font>
- <p>
+<p>
+  <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/cb1bbb15-60cd-474b-93bf-d763cc3d01aa" align="left">
+  <div style="margin-left: 200px; text-align: right;">
+    <font size="5">
+      清华大学暑期研究项目
+      <br />
+      <strong>趙存民</strong>, 林帛雨, 余穎欣
+      <br />
+      [<a href="https://github.com/cuminzhao/Markdown-Resume-Template/files/12819625/default.pdf" style="text-decoration: underline;">Paper</a>]
+    </font>
+  </div>
+</p>
+
 <br />
 
 
