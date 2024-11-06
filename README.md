@@ -115,10 +115,9 @@
 </p>
 
 
-
+<div style="clear: both; margin-bottom: 50px;"></div>
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left">
-  <br />
   <div style="margin-left: 200px; text-align: right;">
     <font size="5">
       <strong>
