@@ -81,9 +81,11 @@
 
 ## Publications
 
+## Publications
+
 <div style="margin-bottom: 40px; overflow: hidden;">
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" style="float: left;">
-  <div style="margin-left: 220px; text-align: right;">
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left">
+  <div style="margin-left: 200px; text-align: right;">
     <font size="5">
       <strong>
         Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
@@ -99,8 +101,8 @@
 </div>
 
 <div style="margin-bottom: 40px; overflow: hidden;">
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" style="float: left;">
-  <div style="margin-left: 220px; text-align: right;">
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left">
+  <div style="margin-left: 200px; text-align: right;">
     <font size="5">
       <strong>
         EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
@@ -116,8 +118,8 @@
 </div>
 
 <div style="overflow: hidden;">
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" style="float: left;">
-  <div style="margin-left: 220px; text-align: right;">
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left">
+  <div style="margin-left: 200px; text-align: right;">
     <font size="5">
       <strong>
         Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
@@ -131,7 +133,6 @@
     </font>
   </div>
 </div>
-
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left">
   <div style="margin-left: 200px; text-align: right;">
