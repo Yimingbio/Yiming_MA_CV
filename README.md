@@ -20,7 +20,7 @@
 
 ## 当前工作方向
 * Microscopy Fluorescence Image Processing 
-* Image Denoising, Segmentation and Enhancement
+* Image Denoising, Segmentation, Super-Resolution and Enhancement
 * Neural Representation
 * Segment Anything in medical images
 
