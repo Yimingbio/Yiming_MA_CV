@@ -35,7 +35,7 @@
 * 了解使用confocal microscope拍摄C.elegans embryo的操作流程
 * 等等
 
-## 工作经历
+## Publications
 
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left"> 
@@ -100,11 +100,6 @@
 
 <p>
 
-
-
-
-## 本科科研经历
-
 <p>
   <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left"> 
   <font size="5">
@@ -119,14 +114,15 @@
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17648082/env2.pdf)
 ]
   </font>
-
-
-
-  
   
  <p>
 
 <p>
+
+
+
+
+## Research Projects During Undergraduate Studies
 
 
 <p>
@@ -138,7 +134,7 @@
     <br />
     <span style="color:blue">
       <strong>
-        Course Final Project
+        Research Project
       </strong>
     </span>
     <br />
@@ -163,7 +159,7 @@
     <br />
  <span style="color:blue">
       <strong>
-        Final Year Project：Zhao Cunmin
+        Final Year Project Thesis
       </strong>
     </span>
     <br />
