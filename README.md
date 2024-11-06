@@ -102,41 +102,6 @@
 </p>
 
 
-<p style="margin-bottom: 20px;">
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left">
-  <div style="margin-left: 200px; text-align: right;">
-    <font size="5">
-      <strong>
-        EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
-      </strong>
-      <br />
-      Under Review by <i>Communications Biology</i>
-      <br />
-      <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
-      <br />
-      [<a href="https://github.com/user-attachments/files/17648455/commbio.pdf" style="text-decoration: underline;">Paper</a>]
-    </font>
-  </div>
-</p>
-
-<p style="margin-top: 20px;">
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left">
-  <div style="margin-left: 200px; text-align: right;">
-    <font size="5">
-      <strong>
-        Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
-      </strong>
-      <br />
-      <i>Bioinformatics</i>
-      <br />
-      Zelin Li, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao
-      <br />
-      [<a href="https://github.com/user-attachments/files/17648675/bioinformatics.pdf" style="text-decoration: underline;">Paper</a>]
-    </font>
-  </div>
-</p>
-
-
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left">
   <div style="margin-left: 200px; text-align: right;">
@@ -172,27 +137,22 @@
   </div>
 </p>
 
-
 <p>
-
-<p>
-  <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left"> 
-  <font size="5">
-    <strong>
-      Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
-    </strong>
-    <br />
-    <strong><i>Science of The Total Environment</i></strong>
-    <br />
-   Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
-   
-   [[Paper](https://github.com/user-attachments/files/17648082/env2.pdf)
-]
-  </font>
-  
- <p>
-
-<p>
+  <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left">
+  <div style="margin-left: 200px; text-align: right;">
+    <font size="5">
+      <strong>
+        Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
+      </strong>
+      <br />
+      <i>Science of The Total Environment</i>
+      <br />
+      Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
+      <br />
+      [<a href="https://github.com/user-attachments/files/17648082/env2.pdf" style="text-decoration: underline;">Paper</a>]
+    </font>
+  </div>
+</p>
 
 
 
