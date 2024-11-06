@@ -111,14 +111,13 @@
   </div>
 </p>
 
-
+<strong>
+        Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
+      </strong>
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left">
   <div style="margin-left: 200px; text-align: right;">
     <font size="5">
-      <strong>
-        Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
-      </strong>
       <br />
       <i>Bioinformatics</i>
       <br />
@@ -129,14 +128,13 @@
   </div>
 </p>
 
+<strong>
+        Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
+      </strong>
 <p>
   <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/d1200366-3abf-4e58-9329-479c4c2adee2" align="left">
   <div style="margin-left: 200px; text-align: right;">
     <font size="5">
-      <strong>
-        Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
-      </strong>
-      <br />
       <i>Science of The Total Environment</i>
       <br />
       Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
