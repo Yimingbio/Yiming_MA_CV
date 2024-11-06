@@ -51,7 +51,7 @@
       </strong>
     </span>
     <br />
-   <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming MA, Zhongying Zhao, Renjie Wan
+   <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan,..., Zhongying Zhao, Renjie Wan
    
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf)]
   </font>
