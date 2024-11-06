@@ -12,7 +12,10 @@
 
 ## 工作及教育经历
 
-* HKBU/prof.zhao zhongying lab&emsp; 2023.7~now&emsp;&emsp;&emsp;&emsp;Research Asistant
+| Organization | Time | Position |
+|--|--|--|
+
+* |HKBU/prof.zhao zhongying lab|2023.7~now|Research Asistant|
 * HKBU/prof.zhao zhongying lab&emsp; 2021.3~2023.7&emsp;&emsp;&emsp;Student-helper 
 * HKBU Biology Department&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;Major biotechnology undergraduate         
 * HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;Minor computer science
