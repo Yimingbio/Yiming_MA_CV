@@ -79,10 +79,6 @@
 
 ## Publications
 
-## Publications
-
-## Publications
-
 
 <p>
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left">
