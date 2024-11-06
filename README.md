@@ -66,7 +66,7 @@
     <br />
     <span style="color:blue">
       <strong>
-        Under Review by Communications Biology
+        Under Review by <i>Communications Biology</i>
       </strong>
     </span>
     <br />
@@ -88,7 +88,7 @@
     <br />
     <span style="color:blue">
       <strong>
-        Bioinformatics
+        <i>Bioinformatics</i>
       </strong>
     </span>
     <br />
@@ -113,7 +113,7 @@
       Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
     </strong>
     <br />
-    <i>Science of The Total Environment</i>
+    <strong><i>Science of The Total Environment</i></strong>
     <br />
    Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
    
