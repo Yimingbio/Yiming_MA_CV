@@ -94,6 +94,7 @@
     </font>
   </div>
 </p>
+<br />
 
 <strong>
         EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
@@ -107,11 +108,10 @@
       <strong>Cunmin Zhao</strong>, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao
       <br />
       [<a href="https://github.com/user-attachments/files/17648455/commbio.pdf" style="text-decoration: underline;">Paper</a>]
-     <br />
     </font>
   </div>
 </p>
-
+<br />
 <strong>
         Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
       </strong>
@@ -145,44 +145,40 @@
   </div>
 </p>
 
+<br />
+
+
 
 
 
 ## Research Projects During Undergraduate Studies
 
-
-<p>
-  <img width="200" alt="Ai" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left"> 
-  <font size="5">
-    <strong>
-      A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
-    </strong>
-    <br />
-    <span style="color:blue">
-      <strong>
-        Research Project
+<strong>
+        A STUDY ON EVALUATING LOW-LIGHT ENHANCEMENT MODEL PERFORMANCE BASED ON THE LOL AND HKBU DATASETS
       </strong>
-    </span>
-    <br />
-    <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
-    <br />
-    使用深度学习算法对暗光环境下拍摄的图片进行光照增强
-   
-   [[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf)]
-  </font>
-
+<p>
+  <img width="200" alt="che" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/e28d8106-aa58-43ad-9186-7eeab9853ed9" align="left">
+  <div style="margin-left: 200px; text-align: right;">
+    <font size="5">
+      Research Project
+      <br />
+      <strong>Zhao Cunmin</strong>, Lau Kin Tung, LIU Yulin, Yang Shu
+      <br />
+      [<a href="https://github.com/cuminzhao/Markdown-Resume-Template/files/12819132/group_2_comp3065_final_project.copy.pdf" style="text-decoration: underline;">Paper</a>]
+    </font>
+  </div>
 </p>
 
 <br />
 
 
+
+<strong>
+      Recompleting the Caenorhabditis briggsae Genome Assembly with Nanopore Long-Read Sequencing
+    </strong>
 <p>
   <img width="200" alt="fyp" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/2c64baf4-5bb5-4338-aee0-506fc0d55b9a" align="left"
   <font size="5">
-    <strong>
-      Recompleting the Caenorhabditis briggsae Genome Assembly with Nanopore Long-Read Sequencing
-    </strong>
-    <br />
  <span style="color:blue">
       <strong>
         Final Year Project Thesis
