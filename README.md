@@ -19,8 +19,10 @@
 * 清华大学人文学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023.5~2023.7&emsp;&emsp;&emsp;暑期研究
 
 ## 当前工作方向
-* 使用深度学习分割/低光照增强算法处理confocal microscope拍摄得到的C.elegans embryo图像
-* 开发用于辅助设计CRISPR guide RNA的生物信息学软件
+* Microscopy Fluorescence Image Processing 
+* Image Denoising, Segmentation and Enhancement
+* Neural Representation
+* Segment Anything in medical images
 
 ## 专业技能
 * dry lab skills
