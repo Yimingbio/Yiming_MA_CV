@@ -45,37 +45,34 @@
       Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
     </strong>
     <br />
-    <span style="color:blue">
-      <strong>
-        CVPR 2025 Conference Submission
-      </strong>
-    </span>
+    CVPR 2025 Conference Submission
     <br />
    <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan,..., Zhongying Zhao, Renjie Wan
    
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf)]
+   [[Paper](https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf)]
   </font>
   
  <p>
 
 <p>
 
+
 <p>
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left"> 
+  <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left"> 
   <font size="5">
     <strong>
-      Neural Fields in Fluorescence Microscopy Imaging: Overcoming Accidental Excitation via An Implicit Way
+      EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos
     </strong>
     <br />
     <span style="color:blue">
       <strong>
-        CVPR 2025 Conference Submission
+        Under Review by Communications Biology
       </strong>
     </span>
     <br />
-   <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming MA, Zhongying Zhao, Renjie Wan
+   Cunmin Zhao, Zelin Li, Pei Zhang, ... ,Guoye Guan, Zhongying Zhao,
    
-   [[Paper](https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf)]
+   [[Paper](https://github.com/user-attachments/files/17648455/commbio.pdf)]
   </font>
   
  <p>
@@ -94,15 +91,17 @@
       Evaluation of nanoplastics toxicity in soil nematode Caenorhabditis elegans by iTRAQ-based quantitative proteomics
     </strong>
     <br />
-    <span style="color:blue">
-      <strong>
-        Published in <i>Science of The Total Environment</i>
-      </strong>
-    </span>
+    <i>Science of The Total Environment</i>
     <br />
    Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12826367/1-s2.0-S004896972207749X-main.pdf)]
+   
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17648082/env2.pdf)
+]
   </font>
+
+
+
+  
   
  <p>
 
@@ -155,13 +154,6 @@
  <p>
 
 <br />
-
-
-
-
-
-
-
 <br />
 <p>
   <img width="200" alt="学区房" src="https://github.com/cuminzhao/Markdown-Resume-Template/assets/80189429/cb1bbb15-60cd-474b-93bf-d763cc3d01aa" align="left"> 
