@@ -96,7 +96,7 @@
   </div>
 </p>
 
-<div style="margin-bottom: 100px; overflow: hidden;">
+<div style="height: 250px; position: relative;">
   <p>
     <img width="200" alt="che" src="https://github.com/user-attachments/assets/cc986aba-3cc8-43fc-9fd8-1604a475685f" align="left">
     <div style="margin-left: 200px; text-align: right;">
@@ -115,7 +115,7 @@
   </p>
 </div>
 
-<div style="margin-bottom: 100px; overflow: hidden;">
+<div style="height: 250px; position: relative;">
   <p>
     <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left">
     <div style="margin-left: 200px; text-align: right;">
