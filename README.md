@@ -153,7 +153,7 @@
     <br />
    Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
    
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/user-attachments/files/17648082/env2.pdf)
+   [[Paper](https://github.com/user-attachments/files/17648082/env2.pdf)
 ]
   </font>
   
