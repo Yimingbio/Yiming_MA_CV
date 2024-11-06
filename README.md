@@ -12,14 +12,66 @@
 
 ## 工作及教育经历
 
-| Organization | Time | Position |
-|--|--|--|
 
 * |HKBU/prof.zhao zhongying lab|2023.7~now|Research Asistant|
 * HKBU/prof.zhao zhongying lab&emsp; 2021.3~2023.7&emsp;&emsp;&emsp;Student-helper 
 * HKBU Biology Department&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;Major biotechnology undergraduate         
 * HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;Minor computer science
 * 清华大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023.5~2023.7&emsp;&emsp;&emsp;暑期研究
+
+<table>
+
+<tr>
+
+<td>HKBU/Prof. Zhao Zhongying Lab</td>
+
+<td>2023.7~now</td>
+
+<td>Research Assistant</td>
+
+</tr>
+
+<tr>
+
+<td>HKBU/Prof. Zhao Zhongying Lab</td>
+
+<td>2021.3~2023.7</td>
+
+<td>Student-helper</td>
+
+</tr>
+
+<tr>
+
+<td>HKBU Biology Department</td>
+
+<td>2019.9~2023.7</td>
+
+<td>Major: Biotechnology Undergraduate</td>
+
+</tr>
+
+<tr>
+
+<td>HKBU CS Department</td>
+
+<td>2021.9~2023.7</td>
+
+<td>Minor: Computer Science</td>
+
+</tr>
+
+<tr>
+
+<td>Tsinghua University</td>
+
+<td>2023.5~2023.7</td>
+
+<td>Summer Research</td>
+
+</tr>
+
+</table>
 
 ## Current Research Interests
 * Microscopy Fluorescence Image Processing 
