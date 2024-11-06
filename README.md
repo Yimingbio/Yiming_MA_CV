@@ -86,7 +86,7 @@
   <img width="200" alt="che" src="https://github.com/user-attachments/assets/74af179b-3e57-4236-9501-5af4abd0cc27" align="left">
   <div style="margin-left: 200px; text-align: right;">
     <font size="5">
-      CVPR 2025 Conference Submission (In Progress)
+      <i>CVPR 2025</i> Conference Submission (In Progress)
       <br />
       <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming Ma, Zhongying Zhao, Renjie Wan
       <br />
