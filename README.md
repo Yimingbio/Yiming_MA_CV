@@ -4,7 +4,8 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：$Year-2001  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：$Year-2001
+* 年 龄：<script>document.write(new Date().getFullYear() - 2001)</script>
 * 手 机：13838929328 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：19251211@life.hkbu.edu.hk    
 * B.Sc. in biotechnology with a focus on Genetics and Developmental Biology
 * Minor in computer science with a focus on Deep Learning
