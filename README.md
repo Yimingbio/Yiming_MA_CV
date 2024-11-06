@@ -113,7 +113,7 @@
     </font>
   </div>
 </p>
-<br />
+
 
 
 <p>
@@ -133,26 +133,6 @@
   </div>
 </p>
 
-
-<p>
-  <img width="200" alt="che" src="https://github.com/user-attachments/assets/056fd285-1a7e-4862-b53c-dd7abab65146" align="left"> 
-  <font size="5">
-    <strong>
-      Deep Learning-based Enhancement of Fluorescence Labeling for Accurate Cell Lineage Tracing During Embryogenesis
-    </strong>
-    <br />
-    <span style="color:blue">
-      <strong>
-        <i>Bioinformatics</i>
-      </strong>
-    </span>
-    <br />
-   Zelin Li, Dongying Xie, Yiming Ma, <strong>Cunmin Zhao</strong>, Sicheng You, Hong Yan, and Zhongying Zhao
-   
-   [[Paper](https://github.com/user-attachments/files/17648675/bioinformatics.pdf)]
-  </font>
-  
- <p>
 
 <p>
 
