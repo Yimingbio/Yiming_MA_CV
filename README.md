@@ -40,7 +40,7 @@
     <br />
     CVPR 2025 Conference Submission (In Progress)
     <br />
-   <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan,..., Zhongying Zhao, Renjie Wan
+   <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Li Zelin, Ma Yiming, Zhongying Zhao, Renjie Wan
    
    [[Paper](https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf)]
   </font>
