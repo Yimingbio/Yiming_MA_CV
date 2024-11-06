@@ -167,7 +167,7 @@
 
 <br />
 <br />
-<br />
+
 
 <strong>
         Recompleting the Caenorhabditis briggsae Genome Assembly with Nanopore Long-Read Sequencing
