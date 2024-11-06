@@ -8,9 +8,9 @@
 * 手 机：13838929328 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：19251211@life.hkbu.edu.hk    
 * B.Sc. in biotechnology with a focus on Genetics and Developmental Biology
 * Minor in computer science with a focus on Deep Learning
-* 岗 位：Research Asistant
+* Now：Research Asistant
 
-## 工作及教育经历
+## Work and Education Experience
 <table>
 
 <tr>
