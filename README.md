@@ -13,9 +13,9 @@
 ## 工作及教育经历
 
 * HKBU/prof.zhao zhongying lab&emsp; 2023.7~now&emsp;&emsp;&emsp;&emsp;Research Asistant
-* HKBU/prof.zhao zhongying lab&emsp; 2021.3~2023.7&emsp;&emsp;&emsp;student-helper 
-* HKBU Biology Department&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;major biotechnology undergraduate         
-* HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;minor computer science
+* HKBU/prof.zhao zhongying lab&emsp; 2021.3~2023.7&emsp;&emsp;&emsp;Student-helper 
+* HKBU Biology Department&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;Major biotechnology undergraduate         
+* HKBU CS Department&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;Minor computer science
 * 清华大学人文学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2023.5~2023.7&emsp;&emsp;&emsp;暑期研究
 
 ## Current Research Interests
