@@ -101,7 +101,6 @@
     </span>
     <br />
    Gefei Huang, Yiming Ma, Dongying Xie, <strong>Cunmin Zhao</strong>, ... Zhongying Zhao, Zongwei Cai 
-   
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[[Paper](https://github.com/cuminzhao/Markdown-Resume-Template/files/12826367/1-s2.0-S004896972207749X-main.pdf)]
   </font>
   
