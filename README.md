@@ -90,7 +90,6 @@
       <br />
       <strong>Cunmin Zhao</strong>, Ziyuan Luo, Guoye Guan, Zelin Li, Yiming Ma, Zhongying Zhao, Renjie Wan
       <br />
-      [<a href="https://github.com/user-attachments/files/17647819/NeRF_SRNF.pdf" style="text-decoration: underline;">Paper</a>]
     </font>
   </div>
 </p>
