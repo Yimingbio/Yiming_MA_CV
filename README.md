@@ -25,6 +25,16 @@
 
 <tr>
 
+<td>Tsinghua University</td>
+
+<td>2023.5~2023.7</td>
+
+<td>Summer Research</td>
+
+</tr>
+
+<tr>
+
 <td>HKBU/Prof. Zhao Zhongying Lab</td>
 
 <td>2021.3~2023.5</td>
@@ -50,16 +60,6 @@
 <td>2021.9~2023.5</td>
 
 <td>Minor: Computer Science</td>
-
-</tr>
-
-<tr>
-
-<td>Tsinghua University</td>
-
-<td>2023.5~2023.7</td>
-
-<td>Summer Research</td>
 
 </tr>
 
