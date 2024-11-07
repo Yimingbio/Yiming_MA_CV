@@ -73,9 +73,9 @@
 * Segment Anything in medical images
 
 ## Advisor
-* Guan Guoye(Postdoc, Harvard Medical School)
-* Wan Renjie(Assistant Professor, CS, Hong Kong Baptist University)
-* Zhao Zhongying(Professor, Bio, Hong Kong Baptist University)
+* Guan Guoye (Postdoc, Harvard Medical School)
+* Wan Renjie (Assistant Professor, CS, Hong Kong Baptist University)
+* Zhao Zhongying (Professor, Bio, Hong Kong Baptist University)
 
 ## Publications
 
